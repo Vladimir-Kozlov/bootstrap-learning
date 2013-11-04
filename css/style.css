@@ -1,0 +1,13 @@
+.col-md-3 {
+	background: #eeeeee;
+	border: 1px solid black;
+	min-height: 150px;
+}
+.row {
+	padding-bottom: 10px;
+	padding-left: 8%;
+}
+
+#grid_heading {
+	text-align: center;
+}
